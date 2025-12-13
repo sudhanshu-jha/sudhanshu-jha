@@ -21,6 +21,10 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu-jha&theme=radical)
 
+## 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudhanshu-jha&theme=radical&hide_border=true)
+
 ## 💻 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu-jha&layout=compact&theme=radical)
